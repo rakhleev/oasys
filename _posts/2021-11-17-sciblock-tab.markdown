@@ -30,8 +30,8 @@ categories: oasys
         </thead>
         <tbody id="table_tz9nme__sheetdb_content" data-api-url="https://sheetdb.io/api/v1/wppx15v0j1a31">
             <tr>
-                <td data-label="№">1.</td>
-                <td data-label="Показатель">Публикация научной статьи:</td>
+                <td data-label="№"><b>1.</b></td>
+                <td data-label="Показатель"><b>Публикация научной статьи:</b></td>
                 <td data-label="Балл"></td>
                 <td data-label="Уточнение показателя">Научная статья, опубликованная не за счет средств СВФУ, без дублирования, с аффилиацией СВФУ (делится на число авторов, являющихся сотрудниками СВФУ)</td>
                 <td data-label="Примечание">
