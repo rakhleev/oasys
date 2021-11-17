@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Научно-исследовательский блок"
 date:   2021-11-17 11:44:30 +0900
-categories: jekyll update
+categories: oasys
 ---
 <div class="jsx-1143507924 ui raised segment">
     <a class="jsx-1143507924 ui blue ribbon label huge">2. Научно-исследовательский блок</a>
@@ -28,40 +28,24 @@ categories: jekyll update
                 <td class="jsx-1143507924 collapsing">1.1</td>
                 <td class="jsx-1143507924">в журналах Q1</td>
                 <td class="jsx-1143507924 center aligned">350</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
                 <td class="jsx-1143507924 collapsing">1.2</td>
                 <td class="jsx-1143507924">в журналах Q2</td>
                 <td class="jsx-1143507924 center aligned">300</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
                 <td class="jsx-1143507924 collapsing">1.3</td>
                 <td class="jsx-1143507924">в журналах Q3-Q4</td>
                 <td class="jsx-1143507924 center aligned">250</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
                 <td class="jsx-1143507924 collapsing">1.4</td>
                 <td class="jsx-1143507924">в журналах без квартиля</td>
                 <td class="jsx-1143507924 center aligned">200</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -78,10 +62,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -98,30 +78,18 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">1.7</td>
                 <td class="jsx-1143507924">в электронных сериях научного журнала "Вестник СВФУ" и научно-популярного журнала "Наука и техника в Якутии"</td>
                 <td class="jsx-1143507924 center aligned">35</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">1.8</td>
                 <td class="jsx-1143507924">рецензирование статей для научных журналов СВФУ имени М.К. Аммосова</td>
                 <td class="jsx-1143507924 center aligned">5</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/review/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -142,10 +110,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/citation/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -162,10 +126,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/citation/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -178,10 +138,6 @@ categories: jekyll update
                     Авторство в научной монографии, изданной не за счет средств СВФУ и утвержденной Научно-техническим совето/Ученым советом образовательной или научной организации с обязятельным указанием СВФУ как организации
                 </td>
                 <td class="jsx-1143507924 center aligned">250</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/book/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -190,30 +146,18 @@ categories: jekyll update
                     Авторство в научной монографии, изданной за счет средств СВФУ и утвержденной Научно-техническим совето / Ученым советом образовательной или научной организации с обязятельным указанием СВФУ как организации
                 </td>
                 <td class="jsx-1143507924 center aligned">125</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/book/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">3.3</td>
                 <td class="jsx-1143507924">Глава в коллективной монография, размещенная в международных БД WoS и Scopus</td>
                 <td class="jsx-1143507924 center aligned">200</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/book/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">3.4</td>
                 <td class="jsx-1143507924">Авторская монография, размещенная в международных БД WoS и Scopus</td>
                 <td class="jsx-1143507924 center aligned">400</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/book/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -238,10 +182,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -258,10 +198,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -278,10 +214,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -302,10 +234,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -322,10 +250,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -342,10 +266,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -362,10 +282,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -382,10 +298,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -402,10 +314,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -422,10 +330,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -442,10 +346,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -462,10 +362,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -488,10 +384,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -508,10 +400,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -528,10 +416,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -548,10 +432,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -568,10 +448,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -588,10 +464,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -608,10 +480,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -628,10 +496,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -648,10 +512,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -668,10 +528,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -688,10 +544,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -708,10 +560,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -728,10 +576,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -752,10 +596,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -772,10 +612,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -792,10 +628,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -812,10 +644,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -832,10 +660,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -852,10 +676,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -872,10 +692,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
@@ -892,10 +708,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -908,30 +720,18 @@ categories: jekyll update
                 <td class="jsx-1143507924 collapsing">5.1</td>
                 <td class="jsx-1143507924">а) патенты на изобретения, промышленные образцы</td>
                 <td class="jsx-1143507924 center aligned">180</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/patentrequest/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">5.2</td>
                 <td class="jsx-1143507924">б) патенты полезные модели</td>
                 <td class="jsx-1143507924 center aligned">150</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/patentrequest/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">5.3</td>
                 <td class="jsx-1143507924">в) свидетельства о гос.регистрации базы данных, программы для ЭВМ</td>
                 <td class="jsx-1143507924 center aligned">90</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/patentrequest/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -944,30 +744,18 @@ categories: jekyll update
                 <td class="jsx-1143507924 collapsing">6.1</td>
                 <td class="jsx-1143507924">а) на сумму лицензионного вознаграждения до 50 тыс.руб.</td>
                 <td class="jsx-1143507924 center aligned">10</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/practical/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">6.2</td>
                 <td class="jsx-1143507924">б) на сумму лицензионного вознаграждения 51 - 100 тыс.руб.</td>
                 <td class="jsx-1143507924 center aligned">50</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/practical/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">6.3</td>
                 <td class="jsx-1143507924">в) на сумму лицензионного вознаграждения свыше 100 тыс.руб.</td>
                 <td class="jsx-1143507924 center aligned">100</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/practical/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -982,20 +770,12 @@ categories: jekyll update
                 <td class="jsx-1143507924 collapsing">7.1.1</td>
                 <td class="jsx-1143507924">ученой степени кандидата наук</td>
                 <td class="jsx-1143507924 center aligned">70</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/disopponent/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">7.1.2</td>
                 <td class="jsx-1143507924">ученой степени доктора наук</td>
                 <td class="jsx-1143507924 center aligned">100</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/disopponent/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1006,50 +786,30 @@ categories: jekyll update
                 <td class="jsx-1143507924 collapsing">7.2.1</td>
                 <td class="jsx-1143507924">на кандидатскую диссертацию</td>
                 <td class="jsx-1143507924 center aligned">60</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/disreview/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">7.2.2</td>
                 <td class="jsx-1143507924">на докторскую диссертацию</td>
                 <td class="jsx-1143507924 center aligned">90</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/disreview/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">7.3</td>
                 <td class="jsx-1143507924">Защита кандидатской диссертации с получением подтверждения</td>
                 <td class="jsx-1143507924 center aligned">125</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/postgraduate/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">7.4</td>
                 <td class="jsx-1143507924">Защита диссертации с получением степени PhD</td>
                 <td class="jsx-1143507924 center aligned">150</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/postgraduate/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">7.5</td>
                 <td class="jsx-1143507924">Научное руководство соискателем, защитившим кандидатскую диссертацию с получением подтверждения</td>
                 <td class="jsx-1143507924 center aligned">100</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/postgraduate/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1060,50 +820,30 @@ categories: jekyll update
                 <td class="jsx-1143507924 collapsing">7.6.1</td>
                 <td class="jsx-1143507924">- в качестве председателя</td>
                 <td class="jsx-1143507924 center aligned">300</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/examcompart/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">7.6.2</td>
                 <td class="jsx-1143507924">- в качестве заместителя председателя, являющегося заведующим соответствующей профильной кафедрой</td>
                 <td class="jsx-1143507924 center aligned">250</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/examcompart/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">7.6.3</td>
                 <td class="jsx-1143507924">- в качестве заместителя председателя, не являющегося заведующим соответствующей профильной кафедрой</td>
                 <td class="jsx-1143507924 center aligned">150</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/examcompart/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">7.6.4</td>
                 <td class="jsx-1143507924">- в качестве ученого секретаря</td>
                 <td class="jsx-1143507924 center aligned">200</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/examcompart/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">7.6.5</td>
                 <td class="jsx-1143507924">- в качестве члена ДС</td>
                 <td class="jsx-1143507924 center aligned">100</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/examcompart/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1118,30 +858,18 @@ categories: jekyll update
                 <td class="jsx-1143507924 collapsing">8.1.1</td>
                 <td class="jsx-1143507924">1 место</td>
                 <td class="jsx-1143507924 center aligned">40</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/studentpart/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">8.1.2</td>
                 <td class="jsx-1143507924">2 место</td>
                 <td class="jsx-1143507924 center aligned">35</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/studentpart/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">8.1.3</td>
                 <td class="jsx-1143507924">3 место</td>
                 <td class="jsx-1143507924 center aligned">30</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/studentpart/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1152,20 +880,12 @@ categories: jekyll update
                 <td class="jsx-1143507924 collapsing">8.2.1</td>
                 <td class="jsx-1143507924">международные</td>
                 <td class="jsx-1143507924 center aligned">10</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/studentpart/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">8.2.2</td>
                 <td class="jsx-1143507924">всероссийские</td>
                 <td class="jsx-1143507924 center aligned">5</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/studentpart/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1176,10 +896,6 @@ categories: jekyll update
                 <td class="jsx-1143507924 collapsing">8.3.1</td>
                 <td class="jsx-1143507924">в БД Web of Science и Scopus</td>
                 <td class="jsx-1143507924 center aligned">230</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1196,10 +912,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1216,10 +928,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1236,10 +944,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1256,10 +960,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/studentsociety/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1280,10 +980,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventpart/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1300,10 +996,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventpart/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1320,10 +1012,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventpart/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1340,10 +1028,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing">
                     <a class="jsx-1143507924" href="https://www.s-vfu.ru/universitet/nauka/%D0%A0%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B0%D0%BB%D0%BB%D1%8B%2029.12.2020.pdf">
                         ссылка на распоряжение
@@ -1358,20 +1042,12 @@ categories: jekyll update
                 <td class="jsx-1143507924 collapsing">10.1</td>
                 <td class="jsx-1143507924">с зарубежными партнерами</td>
                 <td class="jsx-1143507924 center aligned">75</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/contractnew/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">10.2</td>
                 <td class="jsx-1143507924">с российскими партнерами</td>
                 <td class="jsx-1143507924 center aligned">50</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/contractnew/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1382,20 +1058,12 @@ categories: jekyll update
                 <td class="jsx-1143507924 collapsing">11.1</td>
                 <td class="jsx-1143507924">зарубежной</td>
                 <td class="jsx-1143507924 center aligned">100</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/project/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">11.2</td>
                 <td class="jsx-1143507924">российской</td>
                 <td class="jsx-1143507924 center aligned">75</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/project/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1406,20 +1074,12 @@ categories: jekyll update
                 <td class="jsx-1143507924 collapsing">12.1</td>
                 <td class="jsx-1143507924">зарубежной</td>
                 <td class="jsx-1143507924 center aligned">40</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/project/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">12.2</td>
                 <td class="jsx-1143507924">российской</td>
                 <td class="jsx-1143507924 center aligned">35</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/project/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1440,10 +1100,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventholding/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1460,10 +1116,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventholding/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1480,10 +1132,6 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventholding/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
@@ -1500,20 +1148,12 @@ categories: jekyll update
                         </span>
                     </span>
                 </td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventholding/points/5371">формы с баллами</a></td>
             </tr>
             <tr class="jsx-1143507924">
                 <td class="jsx-1143507924 collapsing">13.5</td>
                 <td class="jsx-1143507924">с изданием материалов конференций в сборнике/журнале с индексацией в БД Wos / Scopus</td>
                 <td class="jsx-1143507924 center aligned">80</td>
-                
-                
-                
-                
                 <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventholding/points/5371">формы с баллами</a></td>
             </tr>
         </tbody>
