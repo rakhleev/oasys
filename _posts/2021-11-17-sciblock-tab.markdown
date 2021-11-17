@@ -4,6 +4,32 @@ title:  "Научно-исследовательский блок"
 date:   2021-11-17 11:44:30 +0900
 categories: oasys
 ---
+<style>
+#sciblock {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#sciblock td, #sciblock th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#sciblock tr:nth-child(odd){background-color: #f2f2f2;}
+
+#sciblock tr:hover {background-color: #ddd;}
+
+#sciblock th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #09304A;
+  color: white;
+}
+.table_comment {
+    width: 30%;
+}
+</style>
 <div id="table_tz9nme__table_scroll">
     <table class="jsx-1143507924" id="sciblock">
         <thead>
@@ -20,7 +46,7 @@ categories: oasys
                 <th class="sortable">
                     Уточнение показателя
                 </th>
-                <th class="sortable">
+                <th class="table_comment">
                     Примечание
                 </th>
                 <th class="sortable">
@@ -34,9 +60,7 @@ categories: oasys
                 <td data-label="Показатель"><b>Публикация научной статьи:</b></td>
                 <td data-label="Балл"></td>
                 <td data-label="Уточнение показателя">Научная статья, опубликованная не за счет средств СВФУ, без дублирования, с аффилиацией СВФУ (делится на число авторов, являющихся сотрудниками СВФУ)</td>
-                <td data-label="Примечание">
-                    Ссылка на БД должны быть представлены по следующим сайтам WoS: webofknowledge.com/publons.com (с обязательной ссылкой в профиле автора на публикации WoS), Scopus: scopus.com, РиНц/ВАК: elibrary.ru. Квартиль изданий
-                    Scopus определяется по Scimago (SJR):https://www. scimagojr.com/
+                <td data-label="Примечание"><p>Ссылка на БД должны быть представлены по следующим сайтам <ul><li>WoS: <a href="https://webofknowledge.com/publons.com">webofknowledge.com/publons.com</a> (с обязательной ссылкой в профиле автора на публикации WoS)</li><li> Scopus: <a href="https://scopus.com">scopus.com</a></li><li>РиНц/ВАК: elibrary.ru</li></ul><i>Квартиль изданий Scopus определяется по <a href="https://www.scimagojr.com/">Scimago (SJR)</a></i></p>
                 </td>
                 <td data-label="Ссылка на форму"></td>
             </tr>
@@ -46,7 +70,7 @@ categories: oasys
                 <td data-label="Балл">400</td>
                 <td data-label="Уточнение показателя">Ссылка на статью в соответствую щих БД</td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму"><a href="<a href="https://oasys.s-vfu.ru/form/article/">Форма</a>">Форма</a></td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">1.2.</td>
@@ -144,7 +168,7 @@ categories: oasys
                 <td data-label="Балл">5 за 1 цитиро вание</td>
                 <td data-label="Уточнение показателя">Ссылка на показатели цитирования на сайте БД Web of Science/Scopus</td>
                 <td data-label="Примечание">Не более 500 на 1 НИР за отчетный период.</td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/citation</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/citation">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">2.2.</td>
@@ -152,7 +176,7 @@ categories: oasys
                 <td data-label="Балл">0,5 за 1 цитиро вание</td>
                 <td data-label="Уточнение показателя">Ссылка на показатели цитирования на сайте БД РИНЦ</td>
                 <td data-label="Примечание">Не более 50 на 1 НИР за отчетный период.</td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/citation</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/citation">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">3.</td>
@@ -189,7 +213,7 @@ categories: oasys
                 <td data-label="Балл">200</td>
                 <td data-label="Уточнение показателя">Ссылка на монографию в БД Web of Science/Scopus Делится на число авторов-НПР СВФУ.</td>
                 <td data-label="Примечание">
-                    Ссылка на БД должны быть представлены по следующим сайтам WoS: webofknowledge.c om / publons.com (с обязательной ссылкой в профиле автора на публикации WoS), Scopus: scopus.com
+                    Ссылка на БД должны быть представлены по следующим сайтам WoS: <a href="https://webofknowledge.com/publons.com">webofknowledge.com/publons.com</a> (с обязательной ссылкой в профиле автора на публикации WoS), Scopus: <a href="https://scopus.com">scopus.com</a>
                 </td>
                 <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/book/">Форма</a></td>
             </tr>
@@ -507,7 +531,7 @@ categories: oasys
                 <td data-label="Балл"></td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/patentrequest/">Форма</a></td>
+                <td data-label="Ссылка на форму"></td>
             </tr>
             <tr>
                 <td data-label="№">5.1.</td>
@@ -543,7 +567,7 @@ categories: oasys
                 <td data-label="Балл">10</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/practicall</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/practical">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">6.2.</td>
@@ -551,7 +575,7 @@ categories: oasys
                 <td data-label="Балл">50</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/practical</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/practical">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">6.3.</td>
@@ -559,7 +583,7 @@ categories: oasys
                 <td data-label="Балл">100</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/practical</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/practical">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">7</td>
@@ -607,7 +631,7 @@ categories: oasys
                 <td data-label="Балл">60</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/disreview</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/disreview">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">7.2.2002.</td>
@@ -615,7 +639,7 @@ categories: oasys
                 <td data-label="Балл">90</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/disrevieww</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/disreview">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">7.3.</td>
@@ -733,7 +757,7 @@ categories: oasys
                 <td data-label="Балл">150</td>
                 <td data-label="Уточнение показателя">Ссылка на статью в соответствую щих БД</td>
                 <td data-label="Примечание">
-                    Ссылка на БД должны быть представлены по следующим сайтам WoS: webofknowledge.c om / publons.com (с обязательной ссылкой в профиле автора на публикации WoS), Scopus: scopus.com
+                    Ссылка на БД должны быть представлены по следующим сайтам WoS: <a href="https://webofknowledge.com/publons.com">webofknowledge.com/publons.com</a> (с обязательной ссылкой в профиле автора на публикации WoS), Scopus: <a href="https://scopus.com">scopus.com</a>
                 </td>
                 <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
