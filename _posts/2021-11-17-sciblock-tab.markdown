@@ -4,31 +4,37 @@ title:  "Научно-исследовательский блок"
 date:   2021-11-17 11:44:30 +0900
 categories: oasys
 ---
-<div id="table_60fvbg__table_scroll">
-    <table class="table_60fvbg__table" id="table_60fvbg__table">
+<div id="table_tz9nme__table_scroll">
+    <table class="table_tz9nme__table" id="table_tz9nme__table">
         <thead>
             <tr>
-                <th onclick="table_60fvbg_sort_table(0)" class="sortable">
-                    № <svg class="sort_icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24"><path d="M12 0l8 10h-16l8-10zm8 14h-16l8 10 8-10z"></path></svg>
+                <th onclick="table_tz9nme_sort_table(0)" class="sortable">
+                    №
+                    <svg class="sort_icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24"><path d="M12 0l8 10h-16l8-10zm8 14h-16l8 10 8-10z"></path></svg>
                 </th>
-                <th onclick="table_60fvbg_sort_table(1)" class="sortable">
-                    Показатель <svg class="sort_icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24"><path d="M12 0l8 10h-16l8-10zm8 14h-16l8 10 8-10z"></path></svg>
+                <th onclick="table_tz9nme_sort_table(1)" class="sortable">
+                    Показатель
+                    <svg class="sort_icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24"><path d="M12 0l8 10h-16l8-10zm8 14h-16l8 10 8-10z"></path></svg>
                 </th>
-                <th onclick="table_60fvbg_sort_table(2)" class="sortable">
-                    Балл <svg class="sort_icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24"><path d="M12 0l8 10h-16l8-10zm8 14h-16l8 10 8-10z"></path></svg>
+                <th onclick="table_tz9nme_sort_table(2)" class="sortable">
+                    Балл
+                    <svg class="sort_icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24"><path d="M12 0l8 10h-16l8-10zm8 14h-16l8 10 8-10z"></path></svg>
                 </th>
-                <th onclick="table_60fvbg_sort_table(3)" class="sortable">
-                    Уточнение показателя <svg class="sort_icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24"><path d="M12 0l8 10h-16l8-10zm8 14h-16l8 10 8-10z"></path></svg>
+                <th onclick="table_tz9nme_sort_table(3)" class="sortable">
+                    Уточнение показателя
+                    <svg class="sort_icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24"><path d="M12 0l8 10h-16l8-10zm8 14h-16l8 10 8-10z"></path></svg>
                 </th>
-                <th onclick="table_60fvbg_sort_table(4)" class="sortable">
-                    Примечание <svg class="sort_icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24"><path d="M12 0l8 10h-16l8-10zm8 14h-16l8 10 8-10z"></path></svg>
+                <th onclick="table_tz9nme_sort_table(4)" class="sortable">
+                    Примечание
+                    <svg class="sort_icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24"><path d="M12 0l8 10h-16l8-10zm8 14h-16l8 10 8-10z"></path></svg>
                 </th>
-                <th onclick="table_60fvbg_sort_table(5)" class="sortable">
-                    Ссылка на форму <svg class="sort_icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24"><path d="M12 0l8 10h-16l8-10zm8 14h-16l8 10 8-10z"></path></svg>
+                <th onclick="table_tz9nme_sort_table(5)" class="sortable">
+                    Ссылка на форму
+                    <svg class="sort_icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24"><path d="M12 0l8 10h-16l8-10zm8 14h-16l8 10 8-10z"></path></svg>
                 </th>
             </tr>
         </thead>
-        <tbody id="table_60fvbg__sheetdb_content" data-api-url="https://sheetdb.io/api/v1/wppx15v0j1a31">
+        <tbody id="table_tz9nme__sheetdb_content" data-api-url="https://sheetdb.io/api/v1/wppx15v0j1a31">
             <tr>
                 <td data-label="№" data-searchable="true">1.</td>
                 <td data-label="Показатель" data-searchable="true">Публикация научной статьи:</td>
@@ -907,8 +913,10 @@ categories: oasys
             </tr>
         </tbody>
         <tbody>
-            <tr id="table_60fvbg__no_results_found" style="display: none;">
-                <td colspan="6" style="text-align: center;">No results found</td>
+            <tr id="table_tz9nme__no_results_found" style="display: none;">
+                <td colspan="6" style="text-align: left;">
+                    No results found
+                </td>
             </tr>
         </tbody>
     </table>
