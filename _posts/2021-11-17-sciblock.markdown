@@ -4,1157 +4,918 @@ title:  "Научно-исследовательский блок"
 date:   2021-11-17 11:44:30 +0900
 categories: oasys
 ---
-<div class="jsx-1143507924 ui raised segment">
-    <a class="jsx-1143507924 ui blue ribbon label huge">2. Научно-исследовательский блок</a>
-    <table class="jsx-1143507924 ui celled striped table">
-        <thead class="jsx-1143507924">
-            <tr class="jsx-1143507924">
-                <th class="jsx-1143507924">№</th>
-                <th class="jsx-1143507924">Показатель</th>
-                <th class="jsx-1143507924 center aligned">Баллы</th>
-                <th class="jsx-1143507924 center aligned">Ссылка на форму</th>
+<style>
+#sciblock {
+  border-collapse: collapse;
+  width: 100%;
+  font-size:80%;
+}
+
+#sciblock td, #sciblock th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#sciblock tr:nth-child(odd){background-color: #f2f2f2;}
+
+#sciblock tr:hover {background-color: #ddd;}
+
+#sciblock th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #09304A;
+  color: white;
+}
+.table_comment {
+    width: 30%;
+}
+</style>
+<div id="table_tz9nme__table_scroll">
+    <table class="jsx-1143507924" id="sciblock">
+        <thead>
+            <tr>
+                <th class="sortable">
+                    №
+                </th>
+                <th class="sortable">
+                    Показатель
+                </th>
+                <th class="sortable">
+                    Балл
+                </th>
+                <th class="sortable">
+                    Уточнение показателя
+                </th>
+                <th class="table_comment">
+                    Примечание
+                </th>
+                <th class="sortable">
+                    Ссылка на форму
+                </th>
             </tr>
         </thead>
-        <tbody class="jsx-1143507924">
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"><b class="jsx-1143507924">1</b></td>
-                <td colspan="7" class="jsx-1143507924">
-                    <b class="jsx-1143507924">
-                        Публикация научной статьи (Научная статья, опубликованная не за счет средств СВФУ без дублирования с аффилиацией СВФУ, делится на число авторов СВФУ с обязательным указанием СВФУ как организации)
-                    </b>
+        <tbody id="table_tz9nme__sheetdb_content" data-api-url="https://sheetdb.io/api/v1/wppx15v0j1a31">
+            <tr>
+                <td data-label="№"><b>1.</b></td>
+                <td data-label="Показатель"><b>Публикация научной статьи:</b></td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя">Научная статья, опубликованная не за счет средств СВФУ, без дублирования, с аффилиацией СВФУ (делится на число авторов, являющихся сотрудниками СВФУ)</td>
+                <td data-label="Примечание">
                 </td>
+                <td data-label="Ссылка на форму"></td>
             </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">1.1</td>
-                <td class="jsx-1143507924">в журналах Q1</td>
-                <td class="jsx-1143507924 center aligned">350</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
+            <tr>
+                <td data-label="№">1.1.</td>
+                <td data-label="Показатель">- в БД Web of Science/Scopus (1 квартиль)</td>
+                <td data-label="Балл">400</td>
+                <td data-label="Уточнение показателя" rowspan="4">Ссылка на статью в соответствую щих БД</td>
+                <td data-label="Примечание" rowspan="4"><p>Ссылка на БД должны быть представлены по следующим сайтам <ul><li>WoS: <a href="https://webofknowledge.com/publons.com">webofknowledge.com/publons.com</a> (с обязательной ссылкой в профиле автора на публикации WoS)</li><li> Scopus: <a href="https://scopus.com">scopus.com</a></li><li>РиНц/ВАК: elibrary.ru</li></ul>Квартиль изданий Scopus определяется по <a href="https://www.scimagojr.com/">Scimago (SJR)</a></p></td>
+                <td data-label="Ссылка на форму" rowspan="10"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">1.2</td>
-                <td class="jsx-1143507924">в журналах Q2</td>
-                <td class="jsx-1143507924 center aligned">300</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
+            <tr>
+                <td data-label="№">1.2.</td>
+                <td data-label="Показатель">- в БД Web of Science/Scopus (2 квартиль)</td>
+                <td data-label="Балл">350</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
             </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">1.3</td>
-                <td class="jsx-1143507924">в журналах Q3-Q4</td>
-                <td class="jsx-1143507924 center aligned">250</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
+            <tr>
+                <td data-label="№">1.3.</td>
+                <td data-label="Показатель">- в БД Web of Science/Scopus (3-4 квартили)</td>
+                <td data-label="Балл">250</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
             </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">1.4</td>
-                <td class="jsx-1143507924">в журналах без квартиля</td>
-                <td class="jsx-1143507924 center aligned">200</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
+            <tr>
+                <td data-label="№">1.4.</td>
+                <td data-label="Показатель">- в БД Web of Science/Scopus (без квартиля)</td>
+                <td data-label="Балл">150</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
             </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">1.5</td>
-                <td class="jsx-1143507924">в изданиях, рецензируемых ВАК РФ</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        90
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
+            <tr>
+                <td data-label="№">1.5.</td>
+                <td data-label="Показатель">- в изданиях, входящих в перечень ВАК РФ</td>
+                <td data-label="Балл">90</td>
+                <td data-label="Уточнение показателя">Ссылка на статью в Elibrary / ссылка на перечень журналов ВАК</td>
+                <td data-label="Примечание">Не более 180 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период.</td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">1.6.</td>
+                <td data-label="Показатель">- в изданиях, входящих в БД РИНЦ</td>
+                <td data-label="Балл">25</td>
+                <td data-label="Уточнение показателя">Ссылка на Elibrary</td>
+                <td data-label="Примечание">- Не более 100 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период. <br>- Баллы начисляются только для младших научных сотрудников, научных сотрудников, старших преподавателей, ассистентов и педагогических работников СПО
                 </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
+                <td data-label="Ссылка на форму"></td>
             </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">1.6</td>
-                <td class="jsx-1143507924">в изданиях, входящих в БД РИНЦ</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        25
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
+            <tr>
+                <td data-label="№">1.7.</td>
+                <td data-label="Показатель">- в журнале «Вестник СВФУ», включая разделы «Физика», «Биология», в электронных сериях научного журнала "Вестник СВФУ"</td>
+                <td data-label="Балл">90</td>
+                <td data-label="Уточнение показателя">Ссылка на публикацию</td>
+                <td data-label="Примечание">Не более 270 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период.</td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">1.8.</td>
+                <td data-label="Показатель">- в научном журнале «Арктика XXI век. Гуманитарные науки»</td>
+                <td data-label="Балл">90</td>
+                <td data-label="Уточнение показателя">Ссылка на публикацию</td>
+                <td data-label="Примечание">Не более 270 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период.</td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">1.9.</td>
+                <td data-label="Показатель">- в научном журнале «Арктика XXI век. Естественные науки»</td>
+                <td data-label="Балл">90</td>
+                <td data-label="Уточнение показателя">Ссылка на публикацию</td>
+                <td data-label="Примечание">Не более 270 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период.</td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">1.10.</td>
+                <td data-label="Показатель">- в научно-популярном журнале "Наука и техника в Якутии"</td>
+                <td data-label="Балл">35</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">1.11.</td>
+                <td data-label="Показатель">Рецензирование статей для научных журналов СВФУ имени М.К. Аммосова</td>
+                <td data-label="Балл">10 за рецензи ю на 1 статью</td>
+                <td data-label="Уточнение показателя">Представление редакции журнала</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/review">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">2.</td>
+                <td data-label="Показатель" colspan="4"><b>Количество цитирований за год, предшествующий отчетному, без учета самоцитирования:</b></td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">2.1.</td>
+                <td data-label="Показатель">Публикаций, индексированных в БД Web of Science/Scopus</td>
+                <td data-label="Балл">5 за 1 цитиро вание</td>
+                <td data-label="Уточнение показателя">Ссылка на показатели цитирования на сайте БД Web of Science/Scopus</td>
+                <td data-label="Примечание">Не более 500 на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период.</td>
+                <td data-label="Ссылка на форму" rowspan="2"><a href="https://oasys.s-vfu.ru/form/citation">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">2.2.</td>
+                <td data-label="Показатель">Публикаций, индексированных в БД РИНЦ</td>
+                <td data-label="Балл">0,5 за 1 цитиро вание</td>
+                <td data-label="Уточнение показателя">Ссылка на показатели цитирования на сайте БД РИНЦ</td>
+                <td data-label="Примечание">Не более 50 на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период.</td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">3.</td>
+                <td data-label="Показатель" colspan="4"><b>Издание научных монографий:</b></td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">3.1.</td>
+                <td data-label="Показатель">Авторство в научной монографии, изданной не за счет средств СВФУ</td>
+                <td data-label="Балл">250</td>
+                <td data-label="Уточнение показателя" rowspan="2">- Ссылка на электронный вариант монографии в открытом доступе/скрин титульного листа и оборота титульного листа (аппарат научной монографии).<br>- Оформление монографии должно соответствовать требованиям действующего Положения об издании научных монографий НИР СВФУ В случае необходимости предоставить печатный экземпляр книги в ДНиИ. <br>- Баллы делятся между соавторами монографии - сотрудниками СВФУ
                 </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">1.7</td>
-                <td class="jsx-1143507924">в электронных сериях научного журнала "Вестник СВФУ" и научно-популярного журнала "Наука и техника в Якутии"</td>
-                <td class="jsx-1143507924 center aligned">35</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">1.8</td>
-                <td class="jsx-1143507924">рецензирование статей для научных журналов СВФУ имени М.К. Аммосова</td>
-                <td class="jsx-1143507924 center aligned">5</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/review/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"><b class="jsx-1143507924">2</b></td>
-                <td colspan="7" class="jsx-1143507924"><b class="jsx-1143507924">Количество цитирований за год предшествующий отчетному без учета самоцитирований:</b></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">2.1</td>
-                <td class="jsx-1143507924">Публикаций, индексированных в БД Web of Science и Scopus</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        5
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
+                <td data-label="Примечание" rowspan="2">
+                    - Издание авторской научной монографии, размещенной в БД РИНЦ/НБ СВФУ<br>- Выписка научно-технического совета/ученого совета образовательной/научно-образовательной/научной организации с указанием СВФУ как организации. <br>- Не более 500 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период.
                 </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/citation/points/5371">формы с баллами</a></td>
+                <td data-label="Ссылка на форму" rowspan="4"><a href="https://oasys.s-vfu.ru/form/book/">Форма</a></td>
             </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">2.2</td>
-                <td class="jsx-1143507924">Публикаций, индекцированных в БД РИНЦ</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        0.5
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
+            <tr>
+                <td data-label="№">3.2.</td>
+                <td data-label="Показатель">Авторство в научной монографии, изданной за счет средств СВФУ</td>
+                <td data-label="Балл">125</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">3.3.</td>
+                <td data-label="Показатель">Глава в коллективной монографии, размещенной в БД Web of Science /Scopus</td>
+                <td data-label="Балл">200</td>
+                <td data-label="Уточнение показателя">- Ссылка на монографию в БД Web of Science/Scopus<br>- Делится на число авторов-<abbr title="научно-педагогический работник">НПР</abbr> СВФУ.</td>
+                <td data-label="Примечание" rowspan="2">
+                    Ссылка на БД должны быть представлены по следующим сайтам WoS: <a href="https://webofknowledge.com/publons.com">webofknowledge.com/publons.com</a> (с обязательной ссылкой в профиле автора на публикации WoS), Scopus: <a href="https://scopus.com">scopus.com</a>
                 </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/citation/points/5371">формы с баллами</a></td>
+                <td data-label="Ссылка на форму"></td>
             </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"><b class="jsx-1143507924">3</b></td>
-                <td colspan="7" class="jsx-1143507924"><b class="jsx-1143507924">Издание научных монографий:</b></td>
+            <tr>
+                <td data-label="№">3.4.</td>
+                <td data-label="Показатель">Авторская монография, размещенная в международных БД Web of Science / Scopus</td>
+                <td data-label="Балл">600</td>
+                <td data-label="Уточнение показателя">- Ссылка на монографию в БД Web of Science / Scopus<br>- Баллы делятся между авторами из числа сотрудников СВФУ</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
             </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">3.1</td>
-                <td class="jsx-1143507924">
-                    Авторство в научной монографии, изданной не за счет средств СВФУ и утвержденной Научно-техническим совето/Ученым советом образовательной или научной организации с обязятельным указанием СВФУ как организации
+            <tr>
+                <td data-label="№">4.</td>
+                <td data-label="Показатель" colspan="4"><b>Поданные и поддержанные заявки на научный грант/хоздоговор/госконтракт на выполнение НИР</b></td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.1.</td>
+                <td data-label="Показатель" colspan="2">- Поданная заявка на грант, средства которого поступают на личный счет, и зарегистрированная в отделе сопровождения НИР ДНиИ:</td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.1.1.</td>
+                <td data-label="Показатель">- Поданная заявка на конкурсы, объявляемые республиканскими организациями и фондами</td>
+                <td data-label="Балл">2,5</td>
+                <td data-label="Уточнение показателя" rowspan="13">- Обязательная регистрация и получение регистрационного номера в отделе сопровождения НИР ДНиИ, с предоставлением скана/копии подтверждающих документов;<br>- учитываются поданные заявки за отчетный год;<br>- <u>баллы делятся на исполнителей по решению руководителя проекта;</u> <br>- не учитываются гранты на образовательную деятельность;<br>- если поданная заявка была поддержана в текущем отчетном году, балл присваивается только за поддержанную заявку, а не за поданную;<br>- обязательная аффилиация СВФУ<br></td>
+                <td data-label="Примечание" rowspan="13">Не более 200 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период.</td>
+                <td data-label="Ссылка на форму" rowspan="13"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.1.2.</td>
+                <td data-label="Показатель">- Поданная заявка на конкурсы, объявляемые российскими организациями и фондами</td>
+                <td data-label="Балл">5</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.1.3.</td>
+                <td data-label="Показатель">- Поданная заявка на конкурсы, объявляемые международными организациями и фондами</td>
+                <td data-label="Балл">7,5</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.2.</td>
+                <td data-label="Показатель" colspan="2">Поданная заявка на грант/хоздоговор/госконт ракт на выполнение НИР, средства которого поступают на расчетный счет СВФУ, и зарегистрированная в отделе сопровождения НИР ДНиИ:
                 </td>
-                <td class="jsx-1143507924 center aligned">250</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/book/points/5371">формы с баллами</a></td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
             </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">3.2</td>
-                <td class="jsx-1143507924">
-                    Авторство в научной монографии, изданной за счет средств СВФУ и утвержденной Научно-техническим совето / Ученым советом образовательной или научной организации с обязятельным указанием СВФУ как организации
+            <tr>
+                <td data-label="№">4.2.1.</td>
+                <td data-label="Показатель">- Поданная заявка на конкурсы РНФ</td>
+                <td data-label="Балл">50</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.2.2</td>
+                <td data-label="Показатель">- Поданная заявка на конкурсы ФЦП, мегагрантов</td>
+                <td data-label="Балл">60</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.2.3</td>
+                <td data-label="Показатель">- Поданная заявка на конкурсы МНиВО РФ</td>
+                <td data-label="Балл">30</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.2.4</td>
+                <td data-label="Показатель">- Поданная заявка на конкурсы РНФ совместно с зарубежными научно&shy;исследовательскими группами</td>
+                <td data-label="Балл">60</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.2.5</td>
+                <td data-label="Показатель">- Поданная заявка на конкурсы ФЦП с международным участием</td>
+                <td data-label="Балл">70</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.2.6</td>
+                <td data-label="Показатель">- Поданная заявка на конкурсы РФФИ совместно с зарубежными научно&shy;исследовательскими группами</td>
+                <td data-label="Балл">30</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.2.7.</td>
+                <td data-label="Показатель">- Поданная заявка на международные гранты и контракты кроме РФФИ, РНФ, ФЦП</td>
+                <td data-label="Балл">25</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.2.8</td>
+                <td data-label="Показатель">- Поданная заявка на конкурсы РФФИ</td>
+                <td data-label="Балл">20</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.2.9</td>
+                <td data-label="Показатель">- Поданная заявка на конкурсы других фондов и организаций, госконтракты и хоздоговора на выполнение НИР</td>
+                <td data-label="Балл">10</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.3.</td>
+                <td data-label="Показатель" colspan="2">Профинансированная заявка на научный грант/хоздоговор/госконт ракт на выполнение НИР, средства которого поступили на расчетный счет СВФУ, и зарегистрированная в отделе сопровождения НИР ДНиИ:
                 </td>
-                <td class="jsx-1143507924 center aligned">125</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/book/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">3.3</td>
-                <td class="jsx-1143507924">Глава в коллективной монография, размещенная в международных БД WoS и Scopus</td>
-                <td class="jsx-1143507924 center aligned">200</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/book/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">3.4</td>
-                <td class="jsx-1143507924">Авторская монография, размещенная в международных БД WoS и Scopus</td>
-                <td class="jsx-1143507924 center aligned">400</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/book/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"><b class="jsx-1143507924">4</b></td>
-                <td colspan="7" class="jsx-1143507924"><b class="jsx-1143507924">Поданные и поддержанные заявки на научный грант/хоздоговор/госконтракт на выполнение НИР</b></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.1</td>
-                <td colspan="7" class="jsx-1143507924">Поступают на личный счет, и зарегистрированная в отделе сопровождения НИР ДНиИ:</td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.1.1</td>
-                <td class="jsx-1143507924">республиканские научные организации и фонды</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        2.5
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя">
                 </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
             </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.1.2</td>
-                <td class="jsx-1143507924">российские научные организации и фонды</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        5
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
+            <tr>
+                <td data-label="№">4.3.1.</td>
+                <td data-label="Показатель">Профинансированные заявки на сумму до 49 тыс. руб.(суммарно)</td>
+                <td data-label="Балл">10</td>
+                <td data-label="Уточнение показателя"  rowspan="13">- обязательная регистрация в реестре поданных заявок в отделе сопровождения НИР ДНиИ и получение регистрационного номера реестра в отделе сопровождения НИР ДНиИ (с предоставлением скана/копии подтверждающих документов);<br>- учитываются поданные заявки за отчетный год;<br>- баллы делятся на исполнителей по решению руководителя проекта;<br>- не учитываются гранты на образовательную деятельность; - если поданная заявка была поддержана в текущем
+                    отчетном году, балл присваивается только за поддержанную заявку, а не за поданную;<br> - обязательная аффилиация с СВФУ</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму" rowspan="13"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.3.2.</td>
+                <td data-label="Показатель">Профинансированные заявки на сумму от 50 тыс. руб.</td>
+                <td data-label="Балл">50</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.3.3.</td>
+                <td data-label="Показатель">Профинансированные заявки на сумму от 100 тыс. руб.</td>
+                <td data-label="Балл">100</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.3.4.</td>
+                <td data-label="Показатель">Профинансированные заявки на сумму от 500 тыс. руб.</td>
+                <td data-label="Балл">200</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.3.5.</td>
+                <td data-label="Показатель">Профинансированные заявки с международной коллаборацией от 500 тыс. руб.</td>
+                <td data-label="Балл">250</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.3.6.</td>
+                <td data-label="Показатель">Профинансированные заявки от 1 млн. руб.</td>
+                <td data-label="Балл">300</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.3.7.</td>
+                <td data-label="Показатель">Профинансированные заявки с международной коллаборацией от 1 млн. руб.</td>
+                <td data-label="Балл">330</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.3.8.</td>
+                <td data-label="Показатель">Профинансированные заявки от 3 млн. руб.</td>
+                <td data-label="Балл">500</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.3.9.</td>
+                <td data-label="Показатель">Профинансированные заявки с международной коллаборацией от 3 млн. руб.</td>
+                <td data-label="Балл">530</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.3.10.</td>
+                <td data-label="Показатель">Профинансированные заявки от 6 млн. руб.</td>
+                <td data-label="Балл">800</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.3.11.</td>
+                <td data-label="Показатель">Профинансированные заявки с международной коллаборацией от 6 млн. руб.</td>
+                <td data-label="Балл">830</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.3.12.</td>
+                <td data-label="Показатель">Профинансированные заявки от 10 млн. руб.</td>
+                <td data-label="Балл">1000</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.3.13.</td>
+                <td data-label="Показатель">Профинансированные заявки с международной коллаборацией от 10 млн. руб.</td>
+                <td data-label="Балл">1030</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.4.</td>
+                <td data-label="Показатель" colspan="2">Привлечение финансирования на расчетный счет СВФУ за счет организационных взносов по проведению научно-технических мероприятий</td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.4.1.</td>
+                <td data-label="Показатель">- Организационный взнос на сумму до 49 тыс. руб.</td>
+                <td data-label="Балл">30</td>
+                <td data-label="Уточнение показателя"  rowspan="6">- За 1 проведенное мероприятие.<br>- Предоставить копию приказа о проведении мероприятия с приложением списка организационного комитета.<br>- Справка из бухгалтерии с подтверждением того, что деньги прошли по науке.<br>- Баллы делятся по решению организационного комитета.</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму" rowspan="6"><a href="https://oasys.s-vfu.ru/form/attfin/">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.4.2.</td>
+                <td data-label="Показатель">- Организационный взнос на сумму от 50 тыс. руб.</td>
+                <td data-label="Балл">50</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.4.3.</td>
+                <td data-label="Показатель">- Организационный взнос на сумму от 100 тыс. руб.</td>
+                <td data-label="Балл">100</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.4.4.</td>
+                <td data-label="Показатель">- Организационный взнос на сумму от 500 тыс. руб.</td>
+                <td data-label="Балл">200</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.4.5.</td>
+                <td data-label="Показатель">- Организационный взнос на сумму от 1 млн. руб.</td>
+                <td data-label="Балл">300</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">4.4.6.</td>
+                <td data-label="Показатель">- Организационный взнос на сумму от 3 млн. руб.</td>
+                <td data-label="Балл">500</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">5.</td>
+                <td data-label="Показатель" colspan="4"><b>Служебные результаты интеллектуальной деятельности, имеющие государственную регистрацию и (или) правовую охрану (делится равномерно на число соавторов - НИР СВФУ)</b></td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">5.1.</td>
+                <td data-label="Показатель">(а) патенты на изобретения, полезные модели, промышленные образцы</td>
+                <td data-label="Балл">180</td>
+                <td data-label="Уточнение показателя">Копия патента на СВФУ</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму" rowspan="2"><a href="https://oasys.s-vfu.ru/form/patentrequest/">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">5.2.</td>
+                <td data-label="Показатель">(б) свидетельства о гос. регистрации базы данных, программы для ЭВМ</td>
+                <td data-label="Балл">90</td>
+                <td data-label="Уточнение показателя">Копия свидетельства на СВФУ</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">6.</td>
+                <td data-label="Показатель" colspan="4"><b>Лицензионный договор о предоставлении права использования (отчуждения исключительного права) на изобретения, полезной модели, промышленного образца, базы данных, программы для ЭВМ</b></td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">6.1.</td>
+                <td data-label="Показатель">(а) на сумму лицензионного вознаграждения до 50 тыс. руб.</td>
+                <td data-label="Балл">10</td>
+                <td data-label="Уточнение показателя" rowspan="3">- Баллы делятся равномерно на число соавторов, работающих в СВФУ<br>- Копия договора, для объектов патентного права с обязательной регистрацией в Федеральной службе по интеллектуальной собственности (Роспатент)</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму" rowspan="3"><a href="https://oasys.s-vfu.ru/form/practical">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">6.2.</td>
+                <td data-label="Показатель">(б) на сумму лицензионного вознаграждения 51 - 100 тыс. руб.</td>
+                <td data-label="Балл">50</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">6.3.</td>
+                <td data-label="Показатель">(в) на сумму лицензионного вознаграждения свыше 100 тыс. руб.</td>
+                <td data-label="Балл">100</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">7</td>
+                <td data-label="Показатель" colspan="4"><b>Подготовка научно-педагогических кадров высшей квалификации</b></td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">7.1.</td>
+                <td data-label="Показатель" colspan="2">Оппонирование диссертации на соискание:</td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">7.1.1</td>
+                <td data-label="Показатель">- ученой степени кандидата наук</td>
+                <td data-label="Балл">70</td>
+                <td data-label="Уточнение показателя" rowspan="2">Ссылка на объявление о защите</td>
+                <td data-label="Примечание" rowspan="2">Ссылка должна быть на сайт - <a href="https://vak.minobrnauki.gov.ru">https://vak.minobrnauki.gov.ru</a> (с обязательной ссылкой в профиле соискателя на защиту диссертации)</td>
+                <td data-label="Ссылка на форму" rowspan="2"><a href="https://oasys.s-vfu.ru/form/disopponent/">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">7.1.2.</td>
+                <td data-label="Показатель">- ученой степени доктора наук</td>
+                <td data-label="Балл">100</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">7.2.</td>
+                <td data-label="Показатель" colspan="2">Подготовка отзыва ведущей организации:</td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">7.2.1.</td>
+                <td data-label="Показатель">- на кандидатскую диссертацию</td>
+                <td data-label="Балл">60</td>
+                <td data-label="Уточнение показателя" rowspan="2">Ссылка на объявление о защите</td>
+                <td data-label="Примечание" rowspan="2">Ссылка должна быть на сайт - <a href="https://vak.minobrnauki.gov.ru">https://vak.minobrnauki.gov.ru</a> (с обязательной ссылкой в профиле соискателя на защиту диссертации)</td>
+                <td data-label="Ссылка на форму" rowspan="2"><a href="https://oasys.s-vfu.ru/form/disreview">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">7.2.2.</td>
+                <td data-label="Показатель">- на докторскую диссертацию</td>
+                <td data-label="Балл">90</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">7.3.</td>
+                <td data-label="Показатель">Защита кандидатской диссертации с получением подтверждения</td>
+                <td data-label="Балл">125</td>
+                <td data-label="Уточнение показателя">- Копия приказа о присуждении ученой степени. Для <abbr title="научно-педагогический работник">НПР</abbr>, на которых не распространяются нормы действующего Положения о назначении единовременных вознаграждений <abbr title="научно-педагогический работник">НПР</abbr> СВФУ за защиту диссертации на соискание ученой степени кандидата наук в срок.</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму" rowspan="3"><a href="https://oasys.s-vfu.ru/form/postgraduate">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">7.4.</td>
+                <td data-label="Показатель">Защита диссертации с получением степени PhD</td>
+                <td data-label="Балл">150</td>
+                <td data-label="Уточнение показателя">Копия диплома о присуждении ученой степени</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">7.5.</td>
+                <td data-label="Показатель">Научное руководство соискателей, защитившим кандидатскую диссертацию с получением подтверждениям</td>
+                <td data-label="Балл">100</td>
+                <td data-label="Уточнение показателя">
+                    Копия приказа о присуждении ученой степени, скриншот 2 стр. автореферата. Для <abbr title="научно-педагогический работник">НПР</abbr>, на которых не распространяются нормы действующего Положения о назначении единовременных вознагражденных <abbr title="научно-педагогический работник">НПР</abbr> СВФУ за защиту диссертации на соискание ученой степени кандидата наук в срок.
                 </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td></tr>
+            <tr>
+                <td data-label="№">7.6.</td>
+                <td data-label="Показатель" colspan="2">Работа в составе диссертационного совета:</td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
             </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.1.3</td>
-                <td class="jsx-1143507924">международные научные организации и фонды</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        7.5
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
+            <tr>
+                <td data-label="№">7.6.1.</td>
+                <td data-label="Показатель">- в качестве председателя</td>
+                <td data-label="Балл">300</td>
+                <td data-label="Уточнение показателя" rowspan="4">Копия/скриншот приказа</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму" rowspan="4"><a href="https://oasys.s-vfu.ru/form/examcompart">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">7.6.2.</td>
+                <td data-label="Показатель">- в качестве заместителя председателя</td>
+                <td data-label="Балл">200</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">7.6.3.</td>
+                <td data-label="Показатель">- в качестве ученого секретаря</td>
+                <td data-label="Балл">250</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">7.6.4.</td>
+                <td data-label="Показатель">- в качестве члена ДС</td>
+                <td data-label="Балл">100</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">8.</td>
+                <td data-label="Показатель" colspan="4"><b>Организация научно-исследовательской работы обучающихся</b></td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">8.2.</td>
+                <td data-label="Показатель" colspan="2">Руководство НИР обучающихся, ставших победителями научных конкурсов и конференций, проводившихся в РС(Я):</td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Ссылка на форму" rowspan="3"><a href="https://oasys.s-vfu.ru/form/studentpart/">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№"></td>
+                <td data-label="Показатель">- международные</td>
+                <td data-label="Балл">10</td>
+                <td data-label="Уточнение показателя" rowspan="2">- Баллы делятся на количество руководителей-сотрудников СВФУ. <br>- Копии дипломов, грамот. <br>- Научные мероприятия, подтвержденные ДНиИ</td>
+                <td data-label="Примечание" rowspan="2">Не более 100 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№"></td>
+                <td data-label="Показатель">- всероссийские</td>
+                <td data-label="Балл">5</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">8.3.</td>
+                <td data-label="Показатель">Публикация статьи в соавторстве с обучающимися:</td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя">Научная статья, опубликованная не за счет средств СВФУ без дублирования с аффилиацией СВФУ (делится на число авторов-<abbr title="научно-педагогический работник">НПР</abbr> СВФУ)</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму" rowspan="4"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">8.3.1.</td>
+                <td data-label="Показатель">- в БД Web of Science/Scopus</td>
+                <td data-label="Балл">150</td>
+                <td data-label="Уточнение показателя">Ссылка на статью в соответствую щих БД</td>
+                <td data-label="Примечание">
+                    Ссылка на БД должны быть представлены по следующим сайтам WoS: <a href="https://webofknowledge.com/publons.com">webofknowledge.com/publons.com</a> (с обязательной ссылкой в профиле автора на публикации WoS), Scopus: <a href="https://scopus.com">scopus.com</a>
                 </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
+                <td data-label="Ссылка на форму"></td>
             </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.2</td>
-                <td colspan="7" class="jsx-1143507924">Поступают на расчетный счет СВФУ, и зарегистрированная в отделе сопровождения НИР ДНиИ:</td>
+            <tr>
+                <td data-label="№">8.3.2.</td>
+                <td data-label="Показатель">- в изданиях, входящих в перечень ВАК РФ</td>
+                <td data-label="Балл">90</td>
+                <td data-label="Уточнение показателя">Ссылка на Elibrary/ссылка на перечень журналов ВАК</td>
+                <td data-label="Примечание">Не более 180 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период.</td>
+                <td data-label="Ссылка на форму"></td>
             </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.2.1</td>
-                <td class="jsx-1143507924">конкурсы и гранты РНФ</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        50
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
+            <tr>
+                <td data-label="№">8.3.3.</td>
+                <td data-label="Показатель">- в изданиях, входящих в БД РИНЦ</td>
+                <td data-label="Балл">25</td>
+                <td data-label="Уточнение показателя">Ссылка на статью в БДРИНЦ</td>
+                <td data-label="Примечание">Не более 50 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период.</td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">8.3.4.</td>
+                <td data-label="Показатель">Привлечение студентов и аспирантов в финансируемые НИР</td>
+                <td data-label="Балл">20 б. за 1 обучающегося</td>
+                <td data-label="Уточнение показателя">- Копия договора ГПХ. <br>- Сумма договора ГПХ не должна быть меньше 20 тыс. руб. <br>- Баллы делятся между руководителями финансируемой НИР.</td>
+                <td data-label="Примечание">Не более 100 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период.</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">8.3.5.</td>
+                <td data-label="Показатель">Руководство студенческим научным кружком, конструкторским бюро и пр. (делится на количество руководителей-<abbr title="научно-педагогический работник">НПР</abbr> СВФУ)</td>
+                <td data-label="Балл">25</td>
+                <td data-label="Уточнение показателя">Приказ ректора о деятельности СНК на учебный год</td>
+                <td data-label="Примечание">не более 100 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период.</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/studentsociety/">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">9.</td>
+                <td data-label="Показатель" colspan="4"><b>Участие в составе экспертной комиссии научно-технических мероприятий:</b></td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">9.1.</td>
+                <td data-label="Показатель">- муниципальный</td>
+                <td data-label="Балл">3</td>
+                <td data-label="Уточнение показателя" rowspan="4">Обязательное предоставление сертификата эксперта с указанием статуса участия «Эксперт» или иного документа, подтверждающего участие в качестве эксперта</td>
+                <td data-label="Примечание" rowspan="4">не более 40 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период</td>
+                <td data-label="Ссылка на форму" rowspan="4"><a href="https://oasys.s-vfu.ru/form/eventpart/">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">9.2.</td>
+                <td data-label="Показатель">- районные/зональные</td>
+                <td data-label="Балл">7</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">9.3.</td>
+                <td data-label="Показатель">- общеуниверситетские/республиканские</td>
+                <td data-label="Балл">15</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">9.4.</td>
+                <td data-label="Показатель">- всероссийские/международные</td>
+                <td data-label="Балл">20</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">10.</td>
+                <td data-label="Показатель" colspan="4"><b>Руководство исследовательской сетью, консорциумом и научной коллаборацией:</b></td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">10.1.</td>
+                <td data-label="Показатель">- зарубежной</td>
+                <td data-label="Балл">100</td>
+                <td data-label="Уточнение показателя" rowspan="2">Подтверждающий документ о назначении руководителя</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму" rowspan="2"><a href="https://oasys.s-vfu.ru/form/project/">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">10.2.</td>
+                <td data-label="Показатель">- российской</td>
+                <td data-label="Балл">75</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">11.</td>
+                <td data-label="Показатель" colspan="4"><b>Участие в работе исследовательских сетей, консорциумов и научных коллабораций:</b></td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">11.1.</td>
+                <td data-label="Показатель">- зарубежных</td>
+                <td data-label="Балл">40</td>
+                <td data-label="Уточнение показателя" rowspan="2">Копия утвержденного списка участников</td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму" rowspan="2"><a href="https://oasys.s-vfu.ru/form/project/">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">11.2.</td>
+                <td data-label="Показатель">- российских</td>
+                <td data-label="Балл">35</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">12.</td>
+                <td data-label="Показатель" colspan="4"><b>Организация и проведение научных конференций, форумов, конгрессов, симпозиумов.</b></td>
+                <td data-label="Балл"></td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">12.1.</td>
+                <td data-label="Показатель">- Республиканских</td>
+                <td data-label="Балл">50</td>
+                <td data-label="Уточнение показателя" rowspan="4">- Копия приказа о проведении мероприятия с приложением списка организационного комитета.<br>- Баллы делятся между членами организационного комитета.</td>
+                <td data-label="Примечание" rowspan="4">Не более 50 баллов на <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период</td>
+                <td data-label="Ссылка на форму" rowspan="5"><a href="https://oasys.s-vfu.ru/form/eventholding/">Форма</a></td>
+            </tr>
+            <tr>
+                <td data-label="№">12.2.</td>
+                <td data-label="Показатель">- всероссийских</td>
+                <td data-label="Балл">100</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">12.3.</td>
+                <td data-label="Показатель">- Всероссийских с международным участием</td>
+                <td data-label="Балл">150</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">12.4.</td>
+                <td data-label="Показатель">- международных</td>
+                <td data-label="Балл">200</td>
+                <td data-label="Уточнение показателя"></td>
+                <td data-label="Примечание"></td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+            <tr>
+                <td data-label="№">12.5.</td>
+                <td data-label="Показатель">- с изданием материалов конференции в сборнике/журнале с индексацией в БД WoS/Scopus</td>
+                <td data-label="Балл">80</td>
+                <td data-label="Уточнение показателя">- Копия приказа о проведении мероприятия с приложением списка организационного комитета.<br>- Баллы начисляются председателю и членам организационного комитета.</td>
+                <td data-label="Примечание">Не более 240 баллов на 1 <abbr title="научно-педагогический работник">НПР</abbr> за отчетный период</td>
+                <td data-label="Ссылка на форму"></td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr id="table_tz9nme__no_results_found" style="display: none;">
+                <td colspan="6" style="text-align: left;">
+                    No results found
                 </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.2.2</td>
-                <td class="jsx-1143507924">конкурсы и гранты ФЦП, мегагрантов</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        60
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.2.3</td>
-                <td class="jsx-1143507924">конкурсы и гранты МОН РФ</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        30
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.2.4</td>
-                <td class="jsx-1143507924">конкурсы РНФ совместно с зарубежными научно-исследовательскими группами</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        60
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.2.5</td>
-                <td class="jsx-1143507924">на конкурсы ФЦП с международным участием</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        70
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.2.6</td>
-                <td class="jsx-1143507924">на конкурсы РФФИ совместно с зарубежными научно-исследовательскими группами</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        25
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.2.7</td>
-                <td class="jsx-1143507924">на международные гранты и контракты, кроме РФФИ, РНФ, ФЦИ</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        25
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.2.8</td>
-                <td class="jsx-1143507924">конкурсы РФФИ</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        25
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.2.9</td>
-                <td class="jsx-1143507924">на конкурсы других фондов и организаций, госконтракты и хоздоговора на выполение НИР</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        25
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.3</td>
-                <td colspan="7" class="jsx-1143507924">
-                    Профинансированная заявка на научный грант/хоздоговор/госконтракт на выполнение НИР, средства которого поступили на расчетный счет СВФУ, и зарегистрированная в отделе сопроводжения НИР ДНиИ:
-                </td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.3.1</td>
-                <td class="jsx-1143507924">на сумму до 49,0 тыс.руб. (суммарно)</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        10
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.3.2</td>
-                <td class="jsx-1143507924">на сумму от 50,0 тыс.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        50
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.3.3</td>
-                <td class="jsx-1143507924">на сумму от 100,0 тыс.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        100
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.3.4</td>
-                <td class="jsx-1143507924">на сумму от 500,0 тыс.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        200
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.3.5</td>
-                <td class="jsx-1143507924">с международной коллаборацией от 500,0 тыс.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        250
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.3.6</td>
-                <td class="jsx-1143507924">на сумму от 1 млн.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        300
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.3.7</td>
-                <td class="jsx-1143507924">с международной коллаборацией от 1 млн.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        330
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.3.8</td>
-                <td class="jsx-1143507924">на сумму от 3 млн.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        500
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.3.9</td>
-                <td class="jsx-1143507924">с международной коллаборацией от 3 млн.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        530
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.3.10</td>
-                <td class="jsx-1143507924">на сумму от 6,0 млн.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        800
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.3.11</td>
-                <td class="jsx-1143507924">с международной коллаборацией от 6,0 млн.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        830
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.3.12</td>
-                <td class="jsx-1143507924">на сумму от 10,0 млн.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        1000
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.3.13</td>
-                <td class="jsx-1143507924">с международной коллаборацией от 10,0 млн.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        1030
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">4.4</td>
-                <td colspan="7" class="jsx-1143507924">Привлечение финансирования на расчетный счет СВФУ за счет организационных взносов по проведению научно-технических мероприятий</td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.4.1</td>
-                <td class="jsx-1143507924">на общую сумму до 49,0 тыс.руб. (суммарно)</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        30
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.4.2</td>
-                <td class="jsx-1143507924">на общую сумму от 50,0 тыс.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        50
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.4.3</td>
-                <td class="jsx-1143507924">на общую сумму от 100,0 тыс.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        100
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.4.4</td>
-                <td class="jsx-1143507924">на общую сумму от 500,0 тыс.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        200
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.4.5</td>
-                <td class="jsx-1143507924">на общую сумму от 500,0 тыс.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        230
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.4.6</td>
-                <td class="jsx-1143507924">на общую сумму от 1 млн.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        300
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.4.7</td>
-                <td class="jsx-1143507924">на общую сумму от 1 млн.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        330
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924" style="background-color: rgb(214, 228, 255);">
-                <td class="jsx-1143507924 collapsing">4.4.8</td>
-                <td class="jsx-1143507924">на общую сумму от 3 млн.руб.</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        500
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/attfin/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"><b class="jsx-1143507924">5</b></td>
-                <td colspan="7" class="jsx-1143507924">
-                    <b class="jsx-1143507924">Служебные результаты интеллектуальной деятельности, имеющие государственную регистрацию и (или) правовую охрану (делится равномерно на число соавторов - НПР СВФУ)</b>
-                </td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">5.1</td>
-                <td class="jsx-1143507924">а) патенты на изобретения, промышленные образцы</td>
-                <td class="jsx-1143507924 center aligned">180</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/patentrequest/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">5.2</td>
-                <td class="jsx-1143507924">б) патенты полезные модели</td>
-                <td class="jsx-1143507924 center aligned">150</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/patentrequest/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">5.3</td>
-                <td class="jsx-1143507924">в) свидетельства о гос.регистрации базы данных, программы для ЭВМ</td>
-                <td class="jsx-1143507924 center aligned">90</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/patentrequest/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"><b class="jsx-1143507924">6</b></td>
-                <td colspan="7" class="jsx-1143507924">
-                    <b class="jsx-1143507924">Лицензионный договор о предоставлении права использования (отчуждения исключительного права) на изобретения, полезной модели, промыышленного образца, базы данных, программы для ЭВМ</b>
-                </td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">6.1</td>
-                <td class="jsx-1143507924">а) на сумму лицензионного вознаграждения до 50 тыс.руб.</td>
-                <td class="jsx-1143507924 center aligned">10</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/practical/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">6.2</td>
-                <td class="jsx-1143507924">б) на сумму лицензионного вознаграждения 51 - 100 тыс.руб.</td>
-                <td class="jsx-1143507924 center aligned">50</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/practical/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">6.3</td>
-                <td class="jsx-1143507924">в) на сумму лицензионного вознаграждения свыше 100 тыс.руб.</td>
-                <td class="jsx-1143507924 center aligned">100</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/practical/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"><b class="jsx-1143507924">7</b></td>
-                <td colspan="7" class="jsx-1143507924"><b class="jsx-1143507924">Подготовка научно-педагогических кадров высшей квалификации</b></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.1</td>
-                <td colspan="7" class="jsx-1143507924">Оппонирование диссертации на соискание:</td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.1.1</td>
-                <td class="jsx-1143507924">ученой степени кандидата наук</td>
-                <td class="jsx-1143507924 center aligned">70</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/disopponent/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.1.2</td>
-                <td class="jsx-1143507924">ученой степени доктора наук</td>
-                <td class="jsx-1143507924 center aligned">100</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/disopponent/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.2</td>
-                <td colspan="7" class="jsx-1143507924">Подготовка отзыва ведущей организации:</td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.2.1</td>
-                <td class="jsx-1143507924">на кандидатскую диссертацию</td>
-                <td class="jsx-1143507924 center aligned">60</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/disreview/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.2.2</td>
-                <td class="jsx-1143507924">на докторскую диссертацию</td>
-                <td class="jsx-1143507924 center aligned">90</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/disreview/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.3</td>
-                <td class="jsx-1143507924">Защита кандидатской диссертации с получением подтверждения</td>
-                <td class="jsx-1143507924 center aligned">125</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/postgraduate/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.4</td>
-                <td class="jsx-1143507924">Защита диссертации с получением степени PhD</td>
-                <td class="jsx-1143507924 center aligned">150</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/postgraduate/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.5</td>
-                <td class="jsx-1143507924">Научное руководство соискателем, защитившим кандидатскую диссертацию с получением подтверждения</td>
-                <td class="jsx-1143507924 center aligned">100</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/postgraduate/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.6</td>
-                <td colspan="7" class="jsx-1143507924">Работа в составе диссертационного совета:</td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.6.1</td>
-                <td class="jsx-1143507924">- в качестве председателя</td>
-                <td class="jsx-1143507924 center aligned">300</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/examcompart/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.6.2</td>
-                <td class="jsx-1143507924">- в качестве заместителя председателя, являющегося заведующим соответствующей профильной кафедрой</td>
-                <td class="jsx-1143507924 center aligned">250</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/examcompart/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.6.3</td>
-                <td class="jsx-1143507924">- в качестве заместителя председателя, не являющегося заведующим соответствующей профильной кафедрой</td>
-                <td class="jsx-1143507924 center aligned">150</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/examcompart/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.6.4</td>
-                <td class="jsx-1143507924">- в качестве ученого секретаря</td>
-                <td class="jsx-1143507924 center aligned">200</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/examcompart/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">7.6.5</td>
-                <td class="jsx-1143507924">- в качестве члена ДС</td>
-                <td class="jsx-1143507924 center aligned">100</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/examcompart/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"><b class="jsx-1143507924">8</b></td>
-                <td colspan="7" class="jsx-1143507924"><b class="jsx-1143507924">Организация научно-исследовательской работы обучающихся</b></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">8.1</td>
-                <td colspan="7" class="jsx-1143507924">Руководство НИР обучающихся, ставших победителями и призерами научных конкурсов и конференций, проводивщихся за пределами РС(Я), всех форм участия</td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">8.1.1</td>
-                <td class="jsx-1143507924">1 место</td>
-                <td class="jsx-1143507924 center aligned">40</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/studentpart/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">8.1.2</td>
-                <td class="jsx-1143507924">2 место</td>
-                <td class="jsx-1143507924 center aligned">35</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/studentpart/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">8.1.3</td>
-                <td class="jsx-1143507924">3 место</td>
-                <td class="jsx-1143507924 center aligned">30</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/studentpart/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">8.2</td>
-                <td colspan="7" class="jsx-1143507924">Руководство НИР обучающихся, ставших победителями научных конкурсов и коныеренций, проводивщихся в РС(Я):</td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">8.2.1</td>
-                <td class="jsx-1143507924">международные</td>
-                <td class="jsx-1143507924 center aligned">10</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/studentpart/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">8.2.2</td>
-                <td class="jsx-1143507924">всероссийские</td>
-                <td class="jsx-1143507924 center aligned">5</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/studentpart/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">8.3</td>
-                <td colspan="7" class="jsx-1143507924">Публикация статьи в соавторстве со студентами (ом):</td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">8.3.1</td>
-                <td class="jsx-1143507924">в БД Web of Science и Scopus</td>
-                <td class="jsx-1143507924 center aligned">230</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">8.3.2</td>
-                <td class="jsx-1143507924">в изданиях, входящих в перечень ВАК РФ</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        100
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">8.3.3</td>
-                <td class="jsx-1143507924">в изданиях, входящих в БД РИНЦ</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        25
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/article/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">8.3.4</td>
-                <td class="jsx-1143507924">Привлечение студентов в финансируемые НИР</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        20
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/aplnir/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">8.3.5</td>
-                <td class="jsx-1143507924">Руководство студенческим научным кружком, конструкторским бюро и прочее</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        25
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/studentsociety/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"><b class="jsx-1143507924">9</b></td>
-                <td colspan="7" class="jsx-1143507924"><b class="jsx-1143507924">Участие в составе экспертной комиссии научно-технических мероприятий:</b></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">9.1</td>
-                <td class="jsx-1143507924">районные / зональные</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        10
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventpart/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">9.2</td>
-                <td class="jsx-1143507924">общеуниверситетские / республиканские</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        15
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventpart/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">9.3</td>
-                <td class="jsx-1143507924">всероссийские / международные</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        10
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventpart/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"></td>
-                <td class="jsx-1143507924">Распоряжение №26-375 от 25.12.2020. О назначении баллов экспертам муниципального этапа научно-практической конференции "Шаг в будущее" имени академика В.П.Ларионова</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        0
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing">
-                    <a class="jsx-1143507924" href="https://www.s-vfu.ru/universitet/nauka/%D0%A0%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B0%D0%BB%D0%BB%D1%8B%2029.12.2020.pdf">
-                        ссылка на распоряжение
-                    </a>
-                </td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"><b class="jsx-1143507924">10</b></td>
-                <td colspan="7" class="jsx-1143507924"><b class="jsx-1143507924">Заключение нового договора/соглашения о научном сотрудничестве в текущем году в рамках выполения НИР с организациями за пределами РС(Я):</b></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">10.1</td>
-                <td class="jsx-1143507924">с зарубежными партнерами</td>
-                <td class="jsx-1143507924 center aligned">75</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/contractnew/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">10.2</td>
-                <td class="jsx-1143507924">с российскими партнерами</td>
-                <td class="jsx-1143507924 center aligned">50</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/contractnew/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"><b class="jsx-1143507924">11</b></td>
-                <td colspan="7" class="jsx-1143507924"><b class="jsx-1143507924">Руководство исследовательской сетью, консорциумом и научной коллаборацией:</b></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">11.1</td>
-                <td class="jsx-1143507924">зарубежной</td>
-                <td class="jsx-1143507924 center aligned">100</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/project/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">11.2</td>
-                <td class="jsx-1143507924">российской</td>
-                <td class="jsx-1143507924 center aligned">75</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/project/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"><b class="jsx-1143507924">12</b></td>
-                <td colspan="7" class="jsx-1143507924"><b class="jsx-1143507924">Участие в работе исследовательских сетей, консорциумов и научных коллабораций:</b></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">12.1</td>
-                <td class="jsx-1143507924">зарубежной</td>
-                <td class="jsx-1143507924 center aligned">40</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/project/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">12.2</td>
-                <td class="jsx-1143507924">российской</td>
-                <td class="jsx-1143507924 center aligned">35</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/project/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing"><b class="jsx-1143507924">13</b></td>
-                <td colspan="7" class="jsx-1143507924"><b class="jsx-1143507924">Организация и проведение научных конференций, форумов, конгрессов, симпозиумов с привлечением софинансирования со стороны со стороны не менее 30%</b></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">13.1</td>
-                <td class="jsx-1143507924">республиканского уровня</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        50
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventholding/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">13.2</td>
-                <td class="jsx-1143507924">всероссийского уровня</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        100
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventholding/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">13.3</td>
-                <td class="jsx-1143507924">всероссийского с международным участием</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        150
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventholding/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">13.4</td>
-                <td class="jsx-1143507924">международного уровня</td>
-                <td class="jsx-1143507924 center aligned">
-                    <span>
-                        200
-                        <span role="img" aria-label="info-circle" class="anticon anticon-info-circle">
-                            <svg viewBox="64 64 896 896" focusable="false" class="" data-icon="info-circle" width="1em" height="1em" fill="currentColor" aria-hidden="true">
-                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"></path>
-                                <path d="M464 336a48 48 0 1096 0 48 48 0 10-96 0zm72 112h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V456c0-4.4-3.6-8-8-8z"></path>
-                            </svg>
-                        </span>
-                    </span>
-                </td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventholding/points/5371">формы с баллами</a></td>
-            </tr>
-            <tr class="jsx-1143507924">
-                <td class="jsx-1143507924 collapsing">13.5</td>
-                <td class="jsx-1143507924">с изданием материалов конференций в сборнике/журнале с индексацией в БД Wos / Scopus</td>
-                <td class="jsx-1143507924 center aligned">80</td>
-                <td class="jsx-1143507924 center aligned collapsing"><a class="jsx-1143507924" href="https://oasys.s-vfu.ru/form/eventholding/points/5371">формы с баллами</a></td>
             </tr>
         </tbody>
     </table>
