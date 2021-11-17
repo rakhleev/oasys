@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Научно-исследовательский блок"
 date:   2021-11-17 11:44:30 +0900
 categories: oasys
 ---
