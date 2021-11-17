@@ -46,7 +46,7 @@ categories: oasys
                 <td data-label="Балл">400</td>
                 <td data-label="Уточнение показателя">Ссылка на статью в соответствую щих БД</td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="<a href="https://oasys.s-vfu.ru/form/article/">Форма</a>">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">1.2.</td>
@@ -54,7 +54,7 @@ categories: oasys
                 <td data-label="Балл">350</td>
                 <td data-label="Уточнение показателя">Ссылка на статью в соответствую щих БД</td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">1.3.</td>
@@ -62,7 +62,7 @@ categories: oasys
                 <td data-label="Балл">250</td>
                 <td data-label="Уточнение показателя">Ссылка на статью в соответствую щих БД</td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">1.4.</td>
@@ -70,7 +70,7 @@ categories: oasys
                 <td data-label="Балл">150</td>
                 <td data-label="Уточнение показателя">Ссылка на статью в соответствующей БД</td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">1.5.</td>
@@ -78,7 +78,7 @@ categories: oasys
                 <td data-label="Балл">90</td>
                 <td data-label="Уточнение показателя">Ссылка на статью в Elibrary / ссылка на перечень журналов ВАК</td>
                 <td data-label="Примечание">Не более 180 баллов на 1 НИР за отчетный период.</td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">1.6.</td>
@@ -88,7 +88,7 @@ categories: oasys
                 <td data-label="Примечание">
                     Не более 100 баллов на 1 НИР за отчетный период. Баллы начисляются только для младших научных сотрудников, научных сотрудников, старших преподавателей, ассистентов и педагогических работников СПО
                 </td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">1.7.</td>
@@ -96,7 +96,7 @@ categories: oasys
                 <td data-label="Балл">90</td>
                 <td data-label="Уточнение показателя">Ссылка на публикацию</td>
                 <td data-label="Примечание">Не более 270 баллов на 1 НИР за отчетный период.</td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">1.8.</td>
@@ -104,7 +104,7 @@ categories: oasys
                 <td data-label="Балл">90</td>
                 <td data-label="Уточнение показателя">Ссылка на публикацию</td>
                 <td data-label="Примечание">Не более 270 баллов на 1 НИР за отчетный период.</td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">1.9.</td>
@@ -112,7 +112,7 @@ categories: oasys
                 <td data-label="Балл">90</td>
                 <td data-label="Уточнение показателя">Ссылка на публикацию</td>
                 <td data-label="Примечание">Не более 270 баллов на 1 НИР за отчетный период.</td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">1.10.</td>
@@ -120,7 +120,7 @@ categories: oasys
                 <td data-label="Балл">35</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">1.11.</td>
@@ -128,7 +128,7 @@ categories: oasys
                 <td data-label="Балл">10 за рецензи ю на 1 статью</td>
                 <td data-label="Уточнение показателя">Представление редакции журнала</td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">2.</td>
@@ -173,7 +173,7 @@ categories: oasys
                 <td data-label="Примечание">
                     Издание авторской научной монографии, размещенной в БД РИНЦ/НБ СВФУ Выписка научно&shy;технического совета/ученого совета образовательной/ научно&shy;образовательной/ научной организации с
                 </td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/book/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/book/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">3.2.</td>
@@ -181,7 +181,7 @@ categories: oasys
                 <td data-label="Балл">125</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/book/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/book/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">3.3.</td>
@@ -191,7 +191,7 @@ categories: oasys
                 <td data-label="Примечание">
                     Ссылка на БД должны быть представлены по следующим сайтам WoS: webofknowledge.c om / publons.com (с обязательной ссылкой в профиле автора на публикации WoS), Scopus: scopus.com
                 </td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/book/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/book/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">3.4.</td>
@@ -199,7 +199,7 @@ categories: oasys
                 <td data-label="Балл">600</td>
                 <td data-label="Уточнение показателя">Ссылка на монографию в БД Web of Science / Scopus Баллы делятся между авторами из числа сотрудников СВФУ</td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/book/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/book/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.</td>
@@ -227,7 +227,7 @@ categories: oasys
                 <td data-label="Балл">2,5</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.1.2002.</td>
@@ -235,7 +235,7 @@ categories: oasys
                 <td data-label="Балл">5</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.1.2003.</td>
@@ -243,7 +243,7 @@ categories: oasys
                 <td data-label="Балл">7,5</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.2.</td>
@@ -261,7 +261,7 @@ categories: oasys
                 <td data-label="Балл">50</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.2.2002</td>
@@ -269,7 +269,7 @@ categories: oasys
                 <td data-label="Балл">60</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.2.2003</td>
@@ -277,7 +277,7 @@ categories: oasys
                 <td data-label="Балл">30</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.2.2004</td>
@@ -285,7 +285,7 @@ categories: oasys
                 <td data-label="Балл">60</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.2.2005</td>
@@ -293,7 +293,7 @@ categories: oasys
                 <td data-label="Балл">70</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.2.2006</td>
@@ -301,7 +301,7 @@ categories: oasys
                 <td data-label="Балл">30</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.2.2007.</td>
@@ -309,7 +309,7 @@ categories: oasys
                 <td data-label="Балл">25</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.2.2008</td>
@@ -317,7 +317,7 @@ categories: oasys
                 <td data-label="Балл">20</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.2.2009</td>
@@ -325,7 +325,7 @@ categories: oasys
                 <td data-label="Балл">10</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.3.</td>
@@ -347,7 +347,7 @@ categories: oasys
                 <td data-label="Балл">10</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.3.2002.</td>
@@ -355,7 +355,7 @@ categories: oasys
                 <td data-label="Балл">50</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.3.2003.</td>
@@ -363,7 +363,7 @@ categories: oasys
                 <td data-label="Балл">100</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.3.2004.</td>
@@ -371,7 +371,7 @@ categories: oasys
                 <td data-label="Балл">200</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.3.2005.</td>
@@ -379,7 +379,7 @@ categories: oasys
                 <td data-label="Балл">250</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.3.2006.</td>
@@ -387,7 +387,7 @@ categories: oasys
                 <td data-label="Балл">300</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.3.2007.</td>
@@ -395,7 +395,7 @@ categories: oasys
                 <td data-label="Балл">330</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.3.2008.</td>
@@ -403,7 +403,7 @@ categories: oasys
                 <td data-label="Балл">500</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.3.2009.</td>
@@ -411,7 +411,7 @@ categories: oasys
                 <td data-label="Балл">530</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.3.10.</td>
@@ -419,7 +419,7 @@ categories: oasys
                 <td data-label="Балл">800</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.3.11.</td>
@@ -427,7 +427,7 @@ categories: oasys
                 <td data-label="Балл">830</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.3.12.</td>
@@ -435,7 +435,7 @@ categories: oasys
                 <td data-label="Балл">1000</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.3.13.</td>
@@ -443,7 +443,7 @@ categories: oasys
                 <td data-label="Балл">1030</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.4.</td>
@@ -459,7 +459,7 @@ categories: oasys
                 <td data-label="Балл">30</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/attfin/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/attfin/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.4.2002.</td>
@@ -467,7 +467,7 @@ categories: oasys
                 <td data-label="Балл">50</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/attfin/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/attfin/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.4.2003.</td>
@@ -475,7 +475,7 @@ categories: oasys
                 <td data-label="Балл">100</td>
                 <td data-label="Уточнение показателя">Справка из бухгалтерии с подтверждением того, что деньги прошли по науке. Баллы делятся по решению организационного комитета.</td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/attfin/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/attfin/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.4.2004.</td>
@@ -483,7 +483,7 @@ categories: oasys
                 <td data-label="Балл">200</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/attfin/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/attfin/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.4.2005.</td>
@@ -491,7 +491,7 @@ categories: oasys
                 <td data-label="Балл">300</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/attfin/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/attfin/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">4.4.2006.</td>
@@ -499,7 +499,7 @@ categories: oasys
                 <td data-label="Балл">500</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/attfin/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/attfin/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">5.</td>
@@ -507,7 +507,7 @@ categories: oasys
                 <td data-label="Балл"></td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/patentrequest/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/patentrequest/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">5.1.</td>
@@ -515,7 +515,7 @@ categories: oasys
                 <td data-label="Балл">180</td>
                 <td data-label="Уточнение показателя">Копия патента на СВФУ</td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/patentrequest/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/patentrequest/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">5.2.</td>
@@ -523,7 +523,7 @@ categories: oasys
                 <td data-label="Балл">90</td>
                 <td data-label="Уточнение показателя">Копия свидетельства на СВФУ</td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/patentrequest/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/patentrequest/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">6.</td>
@@ -583,7 +583,7 @@ categories: oasys
                 <td data-label="Балл">70</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/disopponent/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/disopponent/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">7.1.2002.</td>
@@ -591,7 +591,7 @@ categories: oasys
                 <td data-label="Балл">100</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/disopponent/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/disopponent/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">7.2.</td>
@@ -626,7 +626,7 @@ categories: oasys
                     кандидата наук в срок.
                 </td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/postgraduate</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/postgraduate">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">7.4.</td>
@@ -634,7 +634,7 @@ categories: oasys
                 <td data-label="Балл">150</td>
                 <td data-label="Уточнение показателя">Копия диплома о присуждении ученой степени</td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/postgraduatee</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/postgraduate">Форма</a>e</td>
             </tr>
             <tr>
                 <td data-label="№">7.5.</td>
@@ -645,7 +645,7 @@ categories: oasys
                     диссертации на соискание ученой степени кандидата наук в срок.
                 </td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/postgraduate</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/postgraduate">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">7.6.</td>
@@ -661,7 +661,7 @@ categories: oasys
                 <td data-label="Балл">300</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/examcompart</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/examcompart">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">7.6.2002.</td>
@@ -669,7 +669,7 @@ categories: oasys
                 <td data-label="Балл">200</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/examcompartt</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/examcompart">Форма</a>t</td>
             </tr>
             <tr>
                 <td data-label="№">7.6.2003.</td>
@@ -677,7 +677,7 @@ categories: oasys
                 <td data-label="Балл">250</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/examcompart</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/examcompart">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">7.6.2004.</td>
@@ -685,7 +685,7 @@ categories: oasys
                 <td data-label="Балл">100</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/examcompart</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/examcompart">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">8.</td>
@@ -709,7 +709,7 @@ categories: oasys
                 <td data-label="Балл">10</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/studentpart/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/studentpart/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№"></td>
@@ -717,7 +717,7 @@ categories: oasys
                 <td data-label="Балл">5</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/studentpart/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/studentpart/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">8.3.</td>
@@ -735,7 +735,7 @@ categories: oasys
                 <td data-label="Примечание">
                     Ссылка на БД должны быть представлены по следующим сайтам WoS: webofknowledge.c om / publons.com (с обязательной ссылкой в профиле автора на публикации WoS), Scopus: scopus.com
                 </td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">8.3.2002.</td>
@@ -743,7 +743,7 @@ categories: oasys
                 <td data-label="Балл">90</td>
                 <td data-label="Уточнение показателя">Ссылка на Elibrary/ссылка на перечень журналов ВАК</td>
                 <td data-label="Примечание">Не более 180 баллов на 1 НИР за отчетный период.</td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">8.3.2003.</td>
@@ -751,7 +751,7 @@ categories: oasys
                 <td data-label="Балл">25</td>
                 <td data-label="Уточнение показателя">Ссылка на статью в БДРИНЦ</td>
                 <td data-label="Примечание">Не более 50 баллов на 1 НИР за отчетный период.</td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/article/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">8.3.2004.</td>
@@ -759,7 +759,7 @@ categories: oasys
                 <td data-label="Балл">20 б. за 1 обучаю щегося</td>
                 <td data-label="Уточнение показателя">Копия договора ГПХ. Сумма договора ГПХ не должна быть меньше 20 тыс. руб. Баллы делятся между руководителями финансируемой НИР.</td>
                 <td data-label="Примечание">Не более 100 баллов на 1 НИР за отчетный период.</td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/aplnir/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/aplnir/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">8.3.2005.</td>
@@ -767,7 +767,7 @@ categories: oasys
                 <td data-label="Балл">25</td>
                 <td data-label="Уточнение показателя">Приказ ректора о деятельности СНК на учебный год</td>
                 <td data-label="Примечание">не более 100 баллов на 1 НИР за отчетный период.</td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/studentsociety/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/studentsociety/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">9.</td>
@@ -783,7 +783,7 @@ categories: oasys
                 <td data-label="Балл">3</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/eventpart/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/eventpart/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">9.2.</td>
@@ -791,7 +791,7 @@ categories: oasys
                 <td data-label="Балл">7</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/eventpart/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/eventpart/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">9.3.</td>
@@ -799,7 +799,7 @@ categories: oasys
                 <td data-label="Балл">15</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/eventpart/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/eventpart/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">9.4.</td>
@@ -807,7 +807,7 @@ categories: oasys
                 <td data-label="Балл">20</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/eventpart/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/eventpart/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">10.</td>
@@ -823,7 +823,7 @@ categories: oasys
                 <td data-label="Балл">100</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/project/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/project/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">10.2.</td>
@@ -831,7 +831,7 @@ categories: oasys
                 <td data-label="Балл">75</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/project/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/project/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">11.</td>
@@ -847,7 +847,7 @@ categories: oasys
                 <td data-label="Балл">40</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/project/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/project/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">11.2.</td>
@@ -855,7 +855,7 @@ categories: oasys
                 <td data-label="Балл">35</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/project/</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/project/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">12.</td>
@@ -871,7 +871,7 @@ categories: oasys
                 <td data-label="Балл">50</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/eventholding/points/5371</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/eventholding/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">12.2.</td>
@@ -879,7 +879,7 @@ categories: oasys
                 <td data-label="Балл">100</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/eventholding/points/5371</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/eventholding/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">12.3.</td>
@@ -887,7 +887,7 @@ categories: oasys
                 <td data-label="Балл">150</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/eventholding/points/5371</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/eventholding/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">12.4.</td>
@@ -895,7 +895,7 @@ categories: oasys
                 <td data-label="Балл">200</td>
                 <td data-label="Уточнение показателя"></td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/eventholding/points/5371</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/eventholding/">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">12.5.</td>
@@ -903,7 +903,7 @@ categories: oasys
                 <td data-label="Балл">80</td>
                 <td data-label="Уточнение показателя">Копия приказа о проведении мероприятия с приложением списка организационного комитета. Баллы начисляются председателю и членам организационного комитета.</td>
                 <td data-label="Примечание">Не более 240 баллов на 1 НИР за отчетный период</td>
-                <td data-label="Ссылка на форму">https://oasys.s-vfu.ru/form/eventholding/points/5371</td>
+                <td data-label="Ссылка на форму"><a href="https://oasys.s-vfu.ru/form/eventholding/">Форма</a></td>
             </tr>
         </tbody>
         <tbody>
