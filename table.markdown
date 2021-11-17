@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Таблица
+permalink: /table/
 ---
 <div class="jsx-1143507924 ui raised segment">
     <a class="jsx-1143507924 ui blue ribbon label huge">1. Образовательный блок</a>
