@@ -730,7 +730,7 @@ categories: oasys
                 <td data-label="Балл"></td>
                 <td data-label="Уточнение показателя">Научная статья, опубликованная не за счет средств <abbr title="Северо-Восточный федеральный университет">СВФУ</abbr> без дублирования с аффилиацией <abbr title="Северо-Восточный федеральный университет">СВФУ</abbr> (делится на число авторов-<abbr title="научно-педагогический работник">НПР</abbr> <abbr title="Северо-Восточный федеральный университет">СВФУ</abbr>)</td>
                 <td data-label="Примечание"></td>
-                <td data-label="Ссылка на форму" rowspan="4"><a href="https://oasys.s-vfu.ru/form/article/">Форма</a></td>
+                <td data-label="Ссылка на форму" rowspan="4"><a href="https://oasys.s-vfu.ru/form/studentarticle">Форма</a></td>
             </tr>
             <tr>
                 <td data-label="№">8.3.1.</td>
